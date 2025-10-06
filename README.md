@@ -1,1 +1,1 @@
-A Page Various Rom Hacks from the Boxguy Series. Also has some non-rom hack Boxguy stuff
+A Page with Various Rom Hacks from the Boxguy The Box Series. Also has some non-rom Hacking Boxguy stuff
