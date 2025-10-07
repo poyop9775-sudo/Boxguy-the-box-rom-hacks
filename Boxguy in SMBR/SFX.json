@@ -1,0 +1,22 @@
+{
+  "small_jump": "sounds/small_jump.wav",
+  "big_jump": "sounds/big_jump.wav",
+  "fireball": "sounds/fireball.wav",
+  
+  "power_up": "sounds/power_up.wav",
+  "damage": "sounds/damage.wav",
+  
+  "coin": "sounds/coin.wav",
+  "enemy_stomp" :"sounds/enemy_stomp.wav",
+  "kick": "sounds/kick.wav",
+  
+  "bump" : "sounds/bump.wav",
+  "spring": "sounds/spring.wav",
+  "pipe": "sounds/pipe.wav",
+  "item_appear": "sounds/item_appear.wav",
+  "firework": "sounds/firework.wav",
+  
+  "checkpoint": "sounds/checkpoint.wav",
+  "1_up": "sounds/1_up.wav",
+  "pause": "sounds/pause.wav",
+}
